@@ -11,8 +11,7 @@
  
  <body>
      <header class="container text-center">
-         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
-             srcset="">
+        
          <p class="lead">Eu sou a karen_</p>
          <h1>eu gosto de jogar minecraft, roblox</h1>
          <p></p>
