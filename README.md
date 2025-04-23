@@ -13,11 +13,9 @@
      <header class="container text-center">
          <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
              srcset="">
-         <p class="lead">Eu sou Fernanda_</p>
-         <h1>Eu ensino Programação</h1>
-         <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
-             Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
-             que já desenvolvi!</p>
+         <p class="lead">Eu sou a karen_</p>
+         <h1>eu gosto de jogar minecraft, roblox</h1>
+         <p></p>
          <p>Minhas habilidades</p>
          <div>
              <p class="badge bg-secondary">HTML</p>
@@ -216,34 +214,6 @@
  </body>
  
  </html>
- @@ -0,0 +1,31 @@
- @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
  
- :root {
-     --cor-principal: #6E859F;
-     --cor-secundaria: #284260;
-     --cor-destaque: #C92BFC;
- }
  
- body {
-     font-family: 'Chakra Petch', sans-serif;
-     color: var(--cor-principal);
- }
  
- h1, h2, h5 {
-     color: var(--cor-secundaria);
-     font-weight: 700;
- }
- 
- .lead, .btn-link {
-     color: var(--cor-destaque);
-     font-weight: 700;
- }
- 
- a, .btn-link:hover {
-     color: var(--cor-principal)
- }
- 
- a:hover{
-     color: var(--cor-destaque);
- }
